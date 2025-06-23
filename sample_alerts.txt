@@ -1,0 +1,8 @@
+# sample_alerts.txt
+ALERT ID: A001
+Timestamp: 2025-06-21T03:00:00Z
+Source IP: 203.0.113.55
+Destination Account: admin@example.com
+Activity: Unusual login at 3AM UTC from an unknown IP address
+Severity: High
+Description: Possible credential compromise attempt
